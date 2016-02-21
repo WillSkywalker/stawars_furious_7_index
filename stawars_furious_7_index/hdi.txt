@@ -1,0 +1,147 @@
+Norway 0.944
+Australia  0.935
+Switzerland (French-speaking)   0.930
+Switzerland (German-speaking)  0.930
+Denmark    0.923
+Netherlands    0.922
+Germany    0.916
+Ireland    0.916
+United States  0.915
+Canada 0.913
+New Zealand    0.913
+Singapore  0.912
+Hong Kong  0.910
+Liechtenstein  0.908
+Sweden 0.907
+United Kingdom 0.907
+Iceland    0.899
+South Korea   0.898
+Israel 0.894
+Luxembourg 0.892
+Japan  0.891
+Belgium    0.890
+France 0.888
+Austria    0.885
+Finland    0.883
+Taiwan   0.882
+Slovenia   0.880
+Spain  0.876
+Italy  0.873
+Czech Republic 0.870
+Greece 0.865
+Estonia    0.861
+Brunei 0.856
+Cyprus 0.850
+Qatar  0.850
+Andorra    0.845
+Slovakia   0.844
+Poland 0.843
+Lithuania  0.839
+Malta  0.839
+Saudi Arabia   0.837
+Argentina  0.836
+United Arab Emirates   0.835
+Chile  0.832
+Portugal   0.830
+Hungary    0.828
+Bahrain    0.824
+Latvia 0.819
+Croatia    0.818
+Kuwait 0.816
+Montenegro 0.802
+Belarus    0.798
+Russia - CIS 0.798
+Oman   0.793
+Romania    0.793
+Uruguay    0.793
+Bahamas    0.790
+Kazakhstan 0.788
+Barbados   0.785
+Antigua and Barbuda    0.783
+Bulgaria   0.782
+Palau  0.780
+Panama 0.780
+Malaysia   0.779
+Mauritius  0.777
+Seychelles 0.772
+Trinidad and Tobago    0.772
+Serbia & Montenegro 0.771
+Cuba   0.769
+Lebanon    0.769
+Costa Rica 0.766
+Iran   0.766
+Venezuela  0.762
+Turkey 0.761
+Sri Lanka  0.757
+Mexico 0.756
+Brazil 0.755
+Georgia    0.754
+Saint Kitts and Nevis  0.752
+Azerbaijan 0.751
+Grenada    0.750
+Jordan 0.748
+Macedonia  0.747
+Ukraine    0.747
+Algeria    0.736
+Peru   0.734
+Albania    0.733
+Armenia    0.733
+Bosnia and Herzegovina 0.733
+Ecuador    0.732
+Saint Lucia    0.729
+China  0.727
+Fiji   0.727
+Mongolia   0.727
+Thailand   0.726
+Dominica   0.724
+Libya  0.724
+Tunisia    0.721
+Colombia   0.720
+Saint Vincent and the Grenadines   0.720
+Jamaica    0.719
+Tonga  0.717
+Belize 0.715
+Dominican Republic 0.715
+Suriname   0.714
+Maldives   0.706
+Samoa  0.702
+Botswana   0.698
+Moldova    0.693
+Egypt  0.690
+Turkmenistan   0.688
+Gabon  0.684
+Indonesia  0.684
+Paraguay   0.679
+Palestine  0.677
+Uzbekistan 0.675
+Philippines    0.668
+El Salvador    0.666
+South Africa   0.666
+Vietnam    0.666
+Bolivia    0.662
+Kyrgyzstan 0.655
+Iraq   0.654
+Cabo Verde 0.646
+Micronesia 0.640
+Guyana 0.636
+Nicaragua  0.631
+Morocco    0.628
+Namibia    0.628
+Guatemala  0.627
+Tajikistan 0.624
+India  0.609
+Honduras   0.606
+Bhutan 0.605
+Timor Leste    0.595
+Syria  0.594
+Vanuatu    0.594
+Congo, Republic of the 0.591
+Kiribati   0.590
+Equatorial Guinea  0.587
+Zambia 0.586
+Ghana  0.579
+Laos   0.575
+Bangladesh 0.570
+Cambodia   0.555
+São Tomé and Príncipe  0.555
+Kenya   0.548
