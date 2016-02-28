@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+from __future__ import division
 import matplotlib.pyplot as plt
 import numpy as np
 from spider import BoxOfficeSpider
@@ -18,8 +19,9 @@ def box_office_plot(name1, name2, first, second):
             num = line[-6:-1]
             nation = line[:-6].strip()
             hdis[nation] = float(num)
-    print hdis
+    # print hdis
     propotions = BoxOfficeSpider(first, second).get_comparison()
+    print propotions
     # open('swf7i', 'w').writelines(str(a)+' '+str(b)+'\n' for a, b in sorted(propotions.items(), key=lambda x:float(x[1])))
 
     points_to_show = set([(0,0)])
@@ -39,12 +41,19 @@ def box_office_plot(name1, name2, first, second):
     fit = np.polyfit(x, y, 1)
     fit_fn = np.poly1d(fit)
     plt.plot(x, fit_fn(x), '--k')
+
+    yhat = fit_fn(x)                         # or [p(z) for z in x]
+    ybar = sum(y)/len(y)          # or sum(y)/len(y)
+    ssreg = sum((yihat-ybar)**2 for yihat in yhat)   # or sum([ (yihat - ybar)**2 for yihat in yhat])
+    sstot = sum((yi - ybar)**2 for yi in y)    # or sum([ (yi - ybar)**2 for yi in y])
+    r_squared = ssreg / sstot
     # plt.annotate(fit, )
     # plt.xlim(0, 5)
-    plt.ylim(0, 5)
+    print yhat, ybar, ssreg, sstot, r_squared
+    plt.ylim(0)
 
     plt.title('The Relationship between \nthe Box Office Ratio of %s to %s \nand the Country\'s Development Degree' % (name1, name2))
-    plt.xlabel('Human Development Index (HDI)')
+    plt.xlabel('Human Development Index (HDI)\nR = %3f' % sqrt(r_squared))
     plt.ylabel('Box office of %s / Box office of %s' % (name1, name2))
 
     plt.show()

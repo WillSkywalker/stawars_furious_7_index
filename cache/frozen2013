@@ -1,0 +1,794 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-type" content="text/html;charset=iso-8859-1">
+<title>Frozen (2013) - International Box Office Results - Box Office Mojo</title>
+
+<style type="text/css">
+table.chart-wide { width: 100%; }
+</style>
+<META name="keywords" content="frozen, movie, film, international, box office, gross, foreign, overseas, world wide, worldwide, country, by country, result, release date, release, schedule, chart, revenue, box office mojo">
+<META name="description" content="Frozen foreign box office results and release schedule.">
+
+<link rel="stylesheet" href="/css/mojo.css?1" type="text/css" media="screen" title="no title" charset="utf-8">
+<link rel="stylesheet" href="/css/mojo.css?1" type="text/css" media="print" title="no title" charset="utf-8">
+<script type="text/javascript" src="/js/jscharts.js"></script>
+</head>
+<body>
+<iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" style="display: none;"></iframe>
+<script>
+    setTimeout(function(){
+        try{
+            //sis3.0 pixel
+            var cacheBust = Math.random() * 10000000000000000,
+                url_sis3 = 'http://s.amazon-adsystem.com/iu3?',
+                params_sis3 = [
+                    "d=boxofficemojo.com",
+                    "cb=" + cacheBust
+                ];
+
+            (document.getElementById('sis_pixel_sitewide')).src = url_sis3 + params_sis3.join('&');
+        }catch(e){
+            if (window.ueLogError) { 
+                window.ueLogError(e);
+            }
+        }
+    }, 5);
+</script>
+
+<div id="container">
+<div>
+<!-- GOOGLE ANALYTICS CODE STARTS -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2831726-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+  })();
+
+</script>
+<!-- GOOGLE ANALYTICS CODE ENDS -->
+	<div id="hp_banner">
+	<div id="top_links">
+		<div style="float: left"><a href="/daily/chart/">Daily Box Office (Fri.)</a> | <a href="/weekend/chart/">Weekend Box Office (Feb. 12&ndash;14)</a> | <a href="/movies/?id=deadpool2016.htm">#1 Movie: 'Deadpool'</a> | <a href="http://www.imdb.com/showtimes/?ref_=mojo">Showtimes</a></div>
+		<div style="float: right">Updated 2/20/2016 8:46 A.M. Pacific Time</div>
+		<div style="clear:both; height: 0px"></div>
+	</div>
+</div>
+		
+<div id="header">
+	<div id="leaderboard"><!-- begin ad tag (tile=1) -->
+<script type="text/javascript">
+//<![CDATA[
+ord=397123928;
+document.write('<iframe src="http://ad.doubleclick.net/N4215/adi/imdb2.bom.movie/;p=t;tile=1;sz=728x90;oe=ISO-8859-1;ord=' + ord + '?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">');
+
+if (navigator.userAgent.indexOf("Gecko")==-1)
+{
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N4215/adj/imdb2.bom.movie/;p=t;tile=1;sz=728x90;abr=!ie;oe=ISO-8859-1;ord=' + ord + '?"><\/script>');
+}
+document.write('<\/iframe>');
+//]]>
+</script>
+<noscript><a href="http://ad.doubleclick.net/N4215/jump/imdb2.bom.movie/;p=t;tile=1;sz=728x90;oe=ISO-8859-1;ord=397123928?" target="_blank" ><img src="http://ad.doubleclick.net/N4215/ad/imdb2.bom.movie/;p=t;tile=1;sz=728x90;oe=ISO-8859-1;ord=397123928?" border="0" alt="" ></a></noscript>
+<!-- end ad tag --></div>	<div id="hp_logo"><a href="/"><img src="/img/misc/bom_logo1.png" width="245" height="56" alt="Box Office Mojo"></a></div>
+	<div style="clear:both; height: 0px"></div>
+</div>
+
+
+</div>
+
+
+<div id="main">
+<!-- COLUMN 1 of 4 -->
+	<div id="leftnav">
+<!-- google_ad_section_start(weight=ignore) -->
+<!-- <table id="navleft" cellspacing="0" cellpadding="2" border="0"> -->
+<ul id="leftnav">
+<li class="nl_section">Search Site</li>
+<li class="nl_link" style="padding-left:0px">
+	<form name="searchbox" method="POST" action="/search/q.php">
+	<input name="q"  type="text" style="font-size: 9 pt; font-weight: bold; width: 90px;"><br>
+	<input type="submit" value="Search..." ></form> 
+</li>
+<li class='nl_section'>Social</li>
+<li class="nl_link"><a href="http://facebook.com/boxofficemojo" style="vertical-align:middle;"><img src="/images/FaceBook_16x16.png" border="0" alt="Facebook Logo">Facebook</a></li>
+<li class="nl_link"><a href="http://twitter.com/boxofficemojo" style="vertical-align:middle;"><img src="/images/Twitter_16x16.png" border="0" alt="Twitter Logo">Twitter</a></li>
+
+<li class='nl_section'>Features</li>
+<li class='nl_link'><a href="/news/">News</a></li>
+<li class='nl_link'><a href="/schedule/">Release Sched.</a></li>
+<li class='nl_link'><a href="http://www.imdb.com/showtimes?ref_=mojo">Showtimes<br/><span style="margin-left:7px;color: #999999; font-size: 9px;">at <img src="/images/mojo_imdb_sm.png"/></span></a></li>
+<li class='nl_section'>Box Office</li>
+<li class='nl_link'><a href="/daily/">Daily</a></li>
+<li class='nl_link'><a href="/weekend/">Weekend</a></li>
+<li class='nl_link'><a href="/weekly/">Weekly</a></li>
+<li class='nl_link'><a href="/monthly/">Monthly</a></li>
+<li class='nl_link'><a href="/quarterly/">Quarterly</a></li>
+<li class='nl_link'><a href="/seasonal/">Seasonal</a></li>
+<li class='nl_link'><a href="/yearly/">Yearly</a></li>
+<li class='nl_link'><a href="/alltime/">All Time</a></li>
+<li class='nl_link'><a href="/chartwatch/">Chart Watch</a></li>
+<li class='nl_link'><a href="/intl/">International</a></li>
+<li class='nl_section'>Indices</li>
+<li class='nl_link_current'><a href="/movies/">Movies A-Z</a></li>
+<li class='nl_link'><a href="/studio/">Studios</a></li>
+<li class='nl_link'><a href="/people/">People</a></li>
+<li class='nl_link'><a href="/genres/">Genres</a></li>
+<li class='nl_link'><a href="/franchises/">Franchises</a></li>
+<li class='nl_link'><a href="/showdowns/">Showdowns</a></li>
+<li class='nl_link'><a href="/oscar/">Oscar</a></li>
+<li class='nl_link'><a href="/counts/">Theater Counts</a></li>
+</ul>
+</div>
+	<div id="body">
+
+	<table border="0" width="878px" cellspacing="0">
+	<tr>
+	<td align="right" style="whitespace:nowrap;">
+	
+
+	<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<form method="POST" action="/adjuster.php" name="adjuster">
+<input type="hidden" name="returnURL" value="/movies/?page=intl&amp;id=frozen2013.htm">
+<td valign="center">
+  <font face="Verdana" size="2"><a href="/about/adjuster.htm"><b>Adjuster:</b></a></font>
+  <select size="1" name="ticketyr" style="font-family: Verdana; font-size: 10pt">
+  <option value="0" selected>Actuals</option>
+  <option value="1" >Est. Tckts</option>
+<script language="javascript">
+  for(i=2016; i>=1933; i--) {
+  	document.write('<option value="' + i + '"');
+	if(i=='0') document.write(' selected');
+	document.write('>' + i );
+	if(i=='0') document.write(', $' + '0.00');
+	document.write('</option>');
+  }
+</script>
+  <option value="1929" >1929</option>
+  <option value="1924" >1924</option>
+  <option value="1910" >1910</option>
+  </select><input type="submit" name="Go" value="Go" style="font-size: 10pt; height: 22">
+
+</td></form></tr></table>
+
+</td></tr>
+	<!--------------------------Site Body---------------------------------->
+
+<tr></td>
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+	<tr>	<td valign="top" align="center">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%" style="padding-top: 5px;"><tr><td valign="top" align="center">
+		<a href="/movies/?page=media&id=frozen2013.htm"><img src="http://ia.media-imdb.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_UY222_CR0,0,150,222_AL.jpg" border="1" style="border-color: 000000"></a>	</td>
+	<td valign="top" align="center"><br><font face="Verdana" size="6"><b>Frozen</b></font><br><br>
+	<table border="0" cellspacing="0" cellpadding="0"><tr><td>
+	<center><table border="0" border="0" cellspacing="1" cellpadding="4" bgcolor="#dcdcdc" width="95%"><tr bgcolor="#ffffff"><td align="center" colspan="2"><font size="4">Domestic Total Gross: <b>$400,738,009</b></font></td></tr><tr bgcolor="#ffffff"><td valign="top">Distributor: <b><a href="/studio/chart/?studio=buenavista.htm">Buena Vista</a></b></td><td valign="top">Release Date: <b><nobr><a href="/schedule/?view=bydate&release=theatrical&date=2013-11-22&p=.htm">November 22, 2013</a></nobr></b></td></tr><tr bgcolor="#ffffff"><td valign="top">Genre: <b>Animation</b></td><td valign="top">Runtime: <b>1 hrs. 48 min.</b></td></tr><tr bgcolor="#ffffff"><td valign="top">MPAA Rating: <b>PG</b></td><td valign="top">Production Budget: <b>$150 million</b></td></tr></table><table border="0" cellspacing="0" cellpadding="2" border="0" width="95%">
+<form method="POST" action="/showtimes/savelocation.php" name="movietimesbox">
+<input type="hidden" name="return" value="bymovie|frozen2013.htm">
+	<tr>
+	<td nowrap style="padding-top: 10px">
+ <a href="http://www.imdb.com/showtimes?ref_=mojo"><img style="vertical-align:middle" src="/images/mojo_imdb_med.png"/></a> <a href="http://www.imdb.com/showtimes?ref_=mojo">Get local showtimes at IMDb</a>
+  </td></tr></form></table>
+	</td>
+	</tr></table></td>
+	<td align="right"><!-- begin ad tag (tile=2) -->
+<script type="text/javascript">
+//<![CDATA[
+ord=397123928;
+document.write('<iframe src="http://ad.doubleclick.net/N4215/adi/imdb2.bom.movie/;p=rh;tile=2;sz=300x250;oe=ISO-8859-1;ord=' + ord + '?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">');
+
+if (navigator.userAgent.indexOf("Gecko")==-1)
+{
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N4215/adj/imdb2.bom.movie/;p=rh;tile=2;sz=300x250;abr=!ie;oe=ISO-8859-1;ord=' + ord + '?"><\/script>');
+}
+document.write('</iframe>');
+//]]>
+</script>
+<noscript><a href="http://ad.doubleclick.net/N4215/jump/imdb2.bom.movie/;p=rh;tile=2;sz=300x250;oe=ISO-8859-1;ord=397123928?" target="_blank" ><img src="http://ad.doubleclick.net/N4215/ad/imdb2.bom.2/;p=rh;tile=2;sz=300x250;oe=ISO-8859-1;ord=397123928?" border="0" alt="" /></a></noscript>
+<!-- end ad tag --></td>
+	</tr>
+</table>
+
+<ul class="nav_tabs">
+<li><a href="/movies/?page=main&id=frozen2013.htm">Summary</a></li>
+<li><a href="/movies/?page=daily&id=frozen2013.htm">Daily</a></li>
+<li><a href="/movies/?page=weekend&id=frozen2013.htm">Weekend</a></li>
+<li><a href="/movies/?page=weekly&id=frozen2013.htm">Weekly</a></li>
+<li class="nav_tab_current"><a href="/movies/?page=intl&id=frozen2013.htm">Foreign</a></li>
+<li><a href="/movies/?page=similar&id=frozen2013.htm">Similar Movies</a></li>
+</ul>
+<br><font face="Verdana" size="4"><font size="2">View: </font><b>BY COUNTRY</b>  | <a href="/movies/?page=intl&view=byweekend&id=frozen2013.htm">BY WEEKEND</a></font><br><br><table border="3" cellspacing="0" cellpadding="5" align="center" style="margin-top: 5px;"><tr><td valign="top" align="center"><table border="0" cellspacing="1" cellpadding="3"><tr bgcolor="#dcdcdc"><td align="center"><font size="2"><a href="/movies/?page=intl&id=frozen2013.htm&sort=country&order=ASC&p=.htm">Country<br>(click to view weekend breakdown)</a></font></td><td align="center"><font size="2"><a href="/movies/?page=intl&id=frozen2013.htm&sort=studio&order=ASC&p=.htm">Dist.</a></font></td><td align="center"><font size="2"><a href="/movies/?page=intl&id=frozen2013.htm&sort=ReleaseDate&order=DESC&p=.htm">Release<br>Date</a></font></td><td align="center"><font size="2"><a href="/movies/?page=intl&id=frozen2013.htm&sort=opengross&order=DESC&p=.htm">Opening<br>Wknd</a></font></td><td align="center"><font size="2"><a href="/movies/?page=intl&id=frozen2013.htm&sort=percoftotal&order=DESC&p=.htm">% of<Br>Total</a></font></td><td align="center" colspan="2"><font size="2"><a href="/movies/?page=intl&id=frozen2013.htm&sort=todateGross&order=DESC&p=.htm">Total Gross</a> / </font><font size="2"><a href="/movies/?page=intl&id=frozen2013.htm&sort=asofDate&order=DESC&p=.htm">As Of</a></font></td></tr><tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=00&id=frozen2013.htm">FOREIGN TOTAL</a></b></font></td>
+<td><font size="2">-</font></td>
+<td align="center"><font size="2">11/27/13</font></td>
+<td align="right"><font size="2">$16,700,000</font></td>
+<td align="right"><font size="2">1.9%</font></td>
+<td align="right"><font size="2"><b>$875,742,326</b></font></td>
+<td align="center"><font size="2">N/A</font></td>
+</tr>
+
+<tr bgcolor="#dcdcdc"><td colspan="7"><img src="/images/space.gif" width="1" height="3"></td></tr><tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=AR&id=frozen2013.htm">Argentina</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">1/2/14</font></td>
+<td align="right"><font size="2">$2,468,511</font></td>
+<td align="right"><font size="2">21.4%</font></td>
+<td align="right"><font size="2"><b>$11,554,864</b></font></td>
+<td align="center"><font size="2">6/8/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=AU&id=frozen2013.htm">Australia</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/26/13</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$31,058,116</b></font></td>
+<td align="center"><font size="2">3/2/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=AT&id=frozen2013.htm">Austria</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">11/28/13</font></td>
+<td align="right"><font size="2">$590,689</font></td>
+<td align="right"><font size="2">11.2%</font></td>
+<td align="right"><font size="2"><b>$5,289,644</b></font></td>
+<td align="center"><font size="2">3/30/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=BE&id=frozen2013.htm">Belgium</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/4/13</font></td>
+<td align="right"><font size="2">$786,315</font></td>
+<td align="right"><font size="2">9.9%</font></td>
+<td align="right"><font size="2"><b>$7,925,750</b></font></td>
+<td align="center"><font size="2">5/25/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=BO&id=frozen2013.htm">Bolivia</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">1/9/14</font></td>
+<td align="right"><font size="2">$170,808</font></td>
+<td align="right"><font size="2">21.1%</font></td>
+<td align="right"><font size="2"><b>$809,530</b></font></td>
+<td align="center"><font size="2">3/9/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=BR&id=frozen2013.htm">Brazil</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">1/3/14</font></td>
+<td align="right"><font size="2">$3,593,482</font></td>
+<td align="right"><font size="2">16.5%</font></td>
+<td align="right"><font size="2"><b>$21,741,637</b></font></td>
+<td align="center"><font size="2">11/2/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=BG&id=frozen2013.htm">Bulgaria</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">11/29/13</font></td>
+<td align="right"><font size="2">$216,258</font></td>
+<td align="right"><font size="2">15.4%</font></td>
+<td align="right"><font size="2"><b>$1,404,187</b></font></td>
+<td align="center"><font size="2">7/13/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=CL&id=frozen2013.htm">Chile</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">1/2/14</font></td>
+<td align="right"><font size="2">$1,069,958</font></td>
+<td align="right"><font size="2">20.4%</font></td>
+<td align="right"><font size="2"><b>$5,232,894</b></font></td>
+<td align="center"><font size="2">3/9/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=CH&id=frozen2013.htm">China</a></b></font></td>
+<td><font size="2">China Film</font></td>
+<td align="center"><font size="2">2/5/14</font></td>
+<td align="right"><font size="2">$14,110,000</font></td>
+<td align="right"><font size="2">29.2%</font></td>
+<td align="right"><font size="2"><b>$48,240,000</b></font></td>
+<td align="center"><font size="2">3/16/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=C2&id=frozen2013.htm">Colombia</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">1/3/14</font></td>
+<td align="right"><font size="2">$1,726,425</font></td>
+<td align="right"><font size="2">27.5%</font></td>
+<td align="right"><font size="2"><b>$6,268,454</b></font></td>
+<td align="center"><font size="2">3/23/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=HR&id=frozen2013.htm">Croatia</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">11/28/13</font></td>
+<td align="right"><font size="2">$68,680</font></td>
+<td align="right"><font size="2">13.7%</font></td>
+<td align="right"><font size="2"><b>$502,739</b></font></td>
+<td align="center"><font size="2">3/2/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=CZ&id=frozen2013.htm">Czech Republic</a></b></font></td>
+<td><font size="2">Falcon</font></td>
+<td align="center"><font size="2">11/28/13</font></td>
+<td align="right"><font size="2">$172,200</font></td>
+<td align="right"><font size="2">11%</font></td>
+<td align="right"><font size="2"><b>$1,558,657</b></font></td>
+<td align="center"><font size="2">3/30/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=DK&id=frozen2013.htm">Denmark</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/25/13</font></td>
+<td align="right"><font size="2">$3,120,585</font></td>
+<td align="right"><font size="2">40.2%</font></td>
+<td align="right"><font size="2"><b>$7,765,713</b></font></td>
+<td align="center"><font size="2">2/23/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=KN&id=frozen2013.htm">East Africa</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/6/13</font></td>
+<td align="right"><font size="2">$10,626</font></td>
+<td align="right"><font size="2">11.6%</font></td>
+<td align="right"><font size="2"><b>$91,624</b></font></td>
+<td align="center"><font size="2">4/6/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=EC&id=frozen2013.htm">Ecuador</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">1/1/14</font></td>
+<td align="right"><font size="2">$530,971</font></td>
+<td align="right"><font size="2">21.4%</font></td>
+<td align="right"><font size="2"><b>$2,479,144</b></font></td>
+<td align="center"><font size="2">3/23/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=EG&id=frozen2013.htm">Egypt</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/18/13</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$704,264</b></font></td>
+<td align="center"><font size="2">6/8/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=FI&id=frozen2013.htm">Finland</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/20/13</font></td>
+<td align="right"><font size="2">$300,304</font></td>
+<td align="right"><font size="2">11.9%</font></td>
+<td align="right"><font size="2"><b>$2,513,372</b></font></td>
+<td align="center"><font size="2">3/2/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=FR&id=frozen2013.htm">France</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/4/13</font></td>
+<td align="right"><font size="2">$9,158,076</font></td>
+<td align="right"><font size="2">19.5%</font></td>
+<td align="right"><font size="2"><b>$46,942,953</b></font></td>
+<td align="center"><font size="2">2/9/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=DE&id=frozen2013.htm">Germany</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">11/28/13</font></td>
+<td align="right"><font size="2">$6,335,939</font></td>
+<td align="right"><font size="2">13.1%</font></td>
+<td align="right"><font size="2"><b>$48,286,887</b></font></td>
+<td align="center"><font size="2">10/18/15</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=GR&id=frozen2013.htm">Greece</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/19/13</font></td>
+<td align="right"><font size="2">$291,640</font></td>
+<td align="right"><font size="2">13.4%</font></td>
+<td align="right"><font size="2"><b>$2,178,786</b></font></td>
+<td align="center"><font size="2">3/9/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=HK&id=frozen2013.htm">Hong Kong</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/19/13</font></td>
+<td align="right"><font size="2">$402,643</font></td>
+<td align="right"><font size="2">15.6%</font></td>
+<td align="right"><font size="2"><b>$2,579,735</b></font></td>
+<td align="center"><font size="2">3/30/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=HU&id=frozen2013.htm">Hungary</a></b></font></td>
+<td><font size="2">Forum Films</font></td>
+<td align="center"><font size="2">12/5/13</font></td>
+<td align="right"><font size="2">$348,387</font></td>
+<td align="right"><font size="2">17%</font></td>
+<td align="right"><font size="2"><b>$2,049,003</b></font></td>
+<td align="center"><font size="2">2/9/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=IS&id=frozen2013.htm">Iceland</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/13/13</font></td>
+<td align="right"><font size="2">$65,697</font></td>
+<td align="right"><font size="2">18.7%</font></td>
+<td align="right"><font size="2"><b>$351,299</b></font></td>
+<td align="center"><font size="2">1/11/15</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=IN&id=frozen2013.htm">India</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">11/29/13</font></td>
+<td align="right"><font size="2">$213,420</font></td>
+<td align="right"><font size="2">34.9%</font></td>
+<td align="right"><font size="2"><b>$610,925</b></font></td>
+<td align="center"><font size="2">12/29/13</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=IL&id=frozen2013.htm">Israel</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">11/28/13</font></td>
+<td align="right"><font size="2">$367,124</font></td>
+<td align="right"><font size="2">15.7%</font></td>
+<td align="right"><font size="2"><b>$2,337,875</b></font></td>
+<td align="center"><font size="2">3/30/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=IT&id=frozen2013.htm">Italy</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/19/13</font></td>
+<td align="right"><font size="2">$3,155,411</font></td>
+<td align="right"><font size="2">11.9%</font></td>
+<td align="right"><font size="2"><b>$26,421,884</b></font></td>
+<td align="center"><font size="2">3/2/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=JP&id=frozen2013.htm">Japan</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">3/14/14</font></td>
+<td align="right"><font size="2">$7,531,463</font></td>
+<td align="right"><font size="2">3%</font></td>
+<td align="right"><font size="2"><b>$249,036,646</b></font></td>
+<td align="center"><font size="2">8/31/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=LB&id=frozen2013.htm">Lebanon</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/19/13</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$606,538</b></font></td>
+<td align="center"><font size="2">2/2/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=LI&id=frozen2013.htm">Lithuania</a></b></font></td>
+<td><font size="2">-</font></td>
+<td align="center"><font size="2">1/3/14</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$570,035</b></font></td>
+<td align="center"><font size="2">8/2/15</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=MY&id=frozen2013.htm">Malaysia</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">11/28/13</font></td>
+<td align="right"><font size="2">$921,281</font></td>
+<td align="right"><font size="2">25.5%</font></td>
+<td align="right"><font size="2"><b>$3,618,668</b></font></td>
+<td align="center"><font size="2">2/23/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=MX&id=frozen2013.htm">Mexico</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/19/13</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$25,732,202</b></font></td>
+<td align="center"><font size="2">2/23/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=H2&id=frozen2013.htm">Netherlands</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/12/13</font></td>
+<td align="right"><font size="2">$518,031</font></td>
+<td align="right"><font size="2">4.9%</font></td>
+<td align="right"><font size="2"><b>$10,506,131</b></font></td>
+<td align="center"><font size="2">3/2/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=NZ&id=frozen2013.htm">New Zealand</a></b></font></td>
+<td><font size="2">Dis./Sony</font></td>
+<td align="center"><font size="2">12/26/13</font></td>
+<td align="right"><font size="2">$708,560</font></td>
+<td align="right"><font size="2">16%</font></td>
+<td align="right"><font size="2"><b>$4,429,815</b></font></td>
+<td align="center"><font size="2">4/13/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=NG&id=frozen2013.htm">Nigeria</a></b></font></td>
+<td><font size="2">-</font></td>
+<td align="center"><font size="2">12/6/13</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$167,333</b></font></td>
+<td align="center"><font size="2">8/17/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=NO&id=frozen2013.htm">Norway</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/25/13</font></td>
+<td align="right"><font size="2">$1,641,172</font></td>
+<td align="right"><font size="2">21.8%</font></td>
+<td align="right"><font size="2"><b>$7,526,458</b></font></td>
+<td align="center"><font size="2">3/9/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=PE&id=frozen2013.htm">Peru</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/25/13</font></td>
+<td align="right"><font size="2">$924,606</font></td>
+<td align="right"><font size="2">27.1%</font></td>
+<td align="right"><font size="2"><b>$3,410,542</b></font></td>
+<td align="center"><font size="2">3/9/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=PH&id=frozen2013.htm">Philippines</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">11/27/13</font></td>
+<td align="right"><font size="2">$923,176</font></td>
+<td align="right"><font size="2">34.3%</font></td>
+<td align="right"><font size="2"><b>$2,690,603</b></font></td>
+<td align="center"><font size="2">1/12/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=PL&id=frozen2013.htm">Poland</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">11/29/13</font></td>
+<td align="right"><font size="2">$993,164</font></td>
+<td align="right"><font size="2">13.5%</font></td>
+<td align="right"><font size="2"><b>$7,350,813</b></font></td>
+<td align="center"><font size="2">3/23/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=PT&id=frozen2013.htm">Portugal</a></b></font></td>
+<td><font size="2">-</font></td>
+<td align="center"><font size="2">11/28/13</font></td>
+<td align="right"><font size="2">$531,819</font></td>
+<td align="right"><font size="2">13.6%</font></td>
+<td align="right"><font size="2"><b>$3,900,900</b></font></td>
+<td align="center"><font size="2">3/16/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=R2&id=frozen2013.htm">Russia - CIS</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/12/13</font></td>
+<td align="right"><font size="2">$9,766,842</font></td>
+<td align="right"><font size="2">29.2%</font></td>
+<td align="right"><font size="2"><b>$33,436,103</b></font></td>
+<td align="center"><font size="2">3/2/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=S2&id=frozen2013.htm">Serbia & Montenegro</a></b></font></td>
+<td><font size="2">-</font></td>
+<td align="center"><font size="2">12/26/13</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$425,123</b></font></td>
+<td align="center"><font size="2">4/6/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=SG&id=frozen2013.htm">Singapore</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">11/28/13</font></td>
+<td align="right"><font size="2">$802,817</font></td>
+<td align="right"><font size="2">20.9%</font></td>
+<td align="right"><font size="2"><b>$3,841,382</b></font></td>
+<td align="center"><font size="2">4/27/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=SV&id=frozen2013.htm">Slovakia</a></b></font></td>
+<td><font size="2">Saturn</font></td>
+<td align="center"><font size="2">12/5/13</font></td>
+<td align="right"><font size="2">$238,283</font></td>
+<td align="right"><font size="2">19.5%</font></td>
+<td align="right"><font size="2"><b>$1,218,850</b></font></td>
+<td align="center"><font size="2">3/2/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=SI&id=frozen2013.htm">Slovenia</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/5/13</font></td>
+<td align="right"><font size="2">$47,049</font></td>
+<td align="right"><font size="2">10.5%</font></td>
+<td align="right"><font size="2"><b>$447,119</b></font></td>
+<td align="center"><font size="2">4/13/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=ZA&id=frozen2013.htm">South Africa</a></b></font></td>
+<td><font size="2">Ster Kinekor</font></td>
+<td align="center"><font size="2">12/20/13</font></td>
+<td align="right"><font size="2">$486,393</font></td>
+<td align="right"><font size="2">18.3%</font></td>
+<td align="right"><font size="2"><b>$2,659,920</b></font></td>
+<td align="center"><font size="2">2/9/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=KR&id=frozen2013.htm">South Korea</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">1/16/14</font></td>
+<td align="right"><font size="2">$7,622,257</font></td>
+<td align="right"><font size="2">9.9%</font></td>
+<td align="right"><font size="2"><b>$76,695,633</b></font></td>
+<td align="center"><font size="2">3/16/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=ES&id=frozen2013.htm">Spain</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">11/29/13</font></td>
+<td align="right"><font size="2">$3,446,721</font></td>
+<td align="right"><font size="2">15.3%</font></td>
+<td align="right"><font size="2"><b>$22,492,845</b></font></td>
+<td align="center"><font size="2">11/2/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=SE&id=frozen2013.htm">Sweden</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">1/31/14</font></td>
+<td align="right"><font size="2">$2,475,889</font></td>
+<td align="right"><font size="2">25.4%</font></td>
+<td align="right"><font size="2"><b>$9,736,009</b></font></td>
+<td align="center"><font size="2">6/8/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=TH&id=frozen2013.htm">Thailand</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/5/13</font></td>
+<td align="right"><font size="2">$454,733</font></td>
+<td align="right"><font size="2">31.3%</font></td>
+<td align="right"><font size="2"><b>$1,454,495</b></font></td>
+<td align="center"><font size="2">3/16/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=TR&id=frozen2013.htm">Turkey</a></b></font></td>
+<td><font size="2">UIP</font></td>
+<td align="center"><font size="2">1/17/14</font></td>
+<td align="right"><font size="2">$967,113</font></td>
+<td align="right"><font size="2">20.4%</font></td>
+<td align="right"><font size="2"><b>$4,732,212</b></font></td>
+<td align="center"><font size="2">7/12/15</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=UA&id=frozen2013.htm">Ukraine</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/26/13</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$2,866,139</b></font></td>
+<td align="center"><font size="2">3/23/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=UE&id=frozen2013.htm">United Arab Emirates</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/19/13</font></td>
+<td align="right"><font size="2">$743,687</font></td>
+<td align="right"><font size="2">23.7%</font></td>
+<td align="right"><font size="2"><b>$3,141,631</b></font></td>
+<td align="center"><font size="2">5/4/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=UK&id=frozen2013.htm">United Kingdom</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/6/13</font></td>
+<td align="right"><font size="2">$7,692,106</font></td>
+<td align="right"><font size="2">11.9%</font></td>
+<td align="right"><font size="2"><b>$64,733,660</b></font></td>
+<td align="center"><font size="2">12/14/14</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=U3&id=frozen2013.htm">Uruguay</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/26/13</font></td>
+<td align="right"><font size="2">$64,782</font></td>
+<td align="right"><font size="2">9.6%</font></td>
+<td align="right"><font size="2"><b>$675,917</b></font></td>
+<td align="center"><font size="2">4/20/14</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=VE&id=frozen2013.htm">Venezuela</a></b></font></td>
+<td><font size="2">Disney</font></td>
+<td align="center"><font size="2">12/20/13</font></td>
+<td align="right"><font size="2">$1,037,140</font></td>
+<td align="right"><font size="2">8.3%</font></td>
+<td align="right"><font size="2"><b>$12,514,904</b></font></td>
+<td align="center"><font size="2">4/13/14</font></td>
+</tr>
+
+</table><br></td></tr></table><br><br></td></tr></table>
+	</div>
+	</div>
+	<div id="hp_footer">
+		<div style="padding-bottom: 20px;">
+
+			<div style="margin: 0px 121px; vertical-align: top;">
+				<div id="footer_links">
+					<ul class="footer_link_list">
+						<li><strong>Latest Updates</strong></li>
+						<li><a href="/news/?ref=ft">Movie News</a>
+						<li><a href="/daily/chart/?ref=ft">Daily Chart</a></li>
+						<li><a href="/weekend/chart/?ref=ft">Weekend Chart</a></li>
+						<li><a href="/alltime/?ref=ft">All Time Charts</a></li>
+						<li><a href="/intl/?ref=ft">International Charts</a></li>
+					</ul>
+					<!--
+					<ul class="footer_link_list">
+						<li><strong>Popular Movies</strong></li>
+											</ul>
+					-->
+					<ul class="footer_link_list">
+						<li><strong>Indices</strong></li>
+						<li><a href="/movies/?ref=ft">Movies A-Z</a></li>
+						<li><a href="/people/?ref=ft">People</a></li>
+						<li><a href="/genres/?ref=ft">Genres</a></li>
+						<li><a href="/franchises/?ref=ft">Franchises</a></li>
+						<li><a href="/showdowns/?ref=ft">Showdowns</a></li>
+					</ul>
+					<ul class="footer_link_list">
+						<li><strong>Other</strong></li>
+						<li><a href="/about/?ref=ft">About This Site</a></li>
+						<li><a href="/about/advertise.htm?ref=ft">Advertising</a></li>
+						<li><a href="/users/?ref=ft">My Account</a></li>
+						<li><a href="/about/rss.htm?ref=ft">RSS Feeds</a></li>
+					</ul>
+				</div>
+				<div id="copyright">
+					<a href="/?ref=ft"><img src="/img/misc/bom_logo1.png" width="245" height="56" alt="Box Office Mojo"></a><br>
+					<p>An <a href="http://imdb.com/"><img src="/img/misc/IMDbSm.png" width="34" height="16" alt="IMDb" valign="middle"></a> company<br><br></p>
+					<p>&copy; <a href="http://imdb.com/">IMDb.com</a>, Inc. or its affiliates. All rights reserved. Box Office Mojo and IMDb are trademarks or registered trademarks of IMDb.com, Inc. or its affiliates. <a href="/about/termsofuse.htm">Terms of Use</a> and <a href="/about/privacy.htm">Privacy Policy</a> under which this service is provided to you.</p>
+					</div>			
+				</div>
+				<div style="clear:both;">
+				<div>
+				 <!-- begin ad tag (tile=6) -->
+<script type="text/javascript">
+//<![CDATA[
+ord=397123928;
+document.write('<iframe src="http://ad.doubleclick.net/N4215/adi/imdb2.bom.movie/;p=b;tile=3;sz=728x90;oe=ISO-8859-1;ord=' + ord + '?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">');
+
+if (navigator.userAgent.indexOf("Gecko")==-1)
+{
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N4215/adj/imdb2.bom.movie/;p=b;tile=3;sz=728x90;abr=!ie;oe=ISO-8859-1;ord=' + ord + '?"><\/script>');
+}
+document.write('<\/iframe>');
+//]]>
+</script>
+<noscript><a href="http://ad.doubleclick.net/N4215/jump/imdb2.bom.movie/;p=b;tile=3;sz=728x90;oe=ISO-8859-1;ord=397123928?" target="_blank" ><img src="http://ad.doubleclick.net/N4215/ad/imdb2.bom.movie/;p=b;tile=3;sz=728x90;oe=ISO-8859-1;ord=397123928?" border="0" alt="" ></a></noscript>
+<!-- end ad tag --></div>
+
+				</div>
+	</div>
+</div>
+
+
+
+
+
+<!-- Page generated in 0.03 seconds | . -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6034961" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+  el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=6034961&cv=2.0&cj=1" />
+</noscript>
+</body>
+</html>

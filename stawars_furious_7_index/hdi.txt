@@ -145,3 +145,5 @@ Bangladesh 0.570
 Cambodia   0.555
 São Tomé and Príncipe  0.555
 Kenya   0.548
+Nigeria  0.514
+East Africa  0.442

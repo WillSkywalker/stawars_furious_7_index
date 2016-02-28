@@ -1,0 +1,969 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-type" content="text/html;charset=iso-8859-1">
+<title>Avatar (2009) - International Box Office Results - Box Office Mojo</title>
+
+<style type="text/css">
+table.chart-wide { width: 100%; }
+</style>
+<META name="keywords" content="avatar, movie, film, international, box office, gross, foreign, overseas, world wide, worldwide, country, by country, result, release date, release, schedule, chart, revenue, box office mojo">
+<META name="description" content="Avatar foreign box office results and release schedule.">
+
+<link rel="stylesheet" href="/css/mojo.css?1" type="text/css" media="screen" title="no title" charset="utf-8">
+<link rel="stylesheet" href="/css/mojo.css?1" type="text/css" media="print" title="no title" charset="utf-8">
+<script type="text/javascript" src="/js/jscharts.js"></script>
+</head>
+<body>
+<iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" style="display: none;"></iframe>
+<script>
+    setTimeout(function(){
+        try{
+            //sis3.0 pixel
+            var cacheBust = Math.random() * 10000000000000000,
+                url_sis3 = 'http://s.amazon-adsystem.com/iu3?',
+                params_sis3 = [
+                    "d=boxofficemojo.com",
+                    "cb=" + cacheBust
+                ];
+
+            (document.getElementById('sis_pixel_sitewide')).src = url_sis3 + params_sis3.join('&');
+        }catch(e){
+            if (window.ueLogError) { 
+                window.ueLogError(e);
+            }
+        }
+    }, 5);
+</script>
+
+<div id="container">
+<div>
+<!-- GOOGLE ANALYTICS CODE STARTS -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2831726-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+  })();
+
+</script>
+<!-- GOOGLE ANALYTICS CODE ENDS -->
+	<div id="hp_banner">
+	<div id="top_links">
+		<div style="float: left"><a href="/daily/chart/">Daily Box Office (Fri.)</a> | <a href="/weekend/chart/">Weekend Box Office (Feb. 12&ndash;14)</a> | <a href="/movies/?id=deadpool2016.htm">#1 Movie: 'Deadpool'</a> | <a href="http://www.imdb.com/showtimes/?ref_=mojo">Showtimes</a></div>
+		<div style="float: right">Updated 2/20/2016 8:46 A.M. Pacific Time</div>
+		<div style="clear:both; height: 0px"></div>
+	</div>
+</div>
+		
+<div id="header">
+	<div id="leaderboard"><!-- begin ad tag (tile=1) -->
+<script type="text/javascript">
+//<![CDATA[
+ord=1813177891;
+document.write('<iframe src="http://ad.doubleclick.net/N4215/adi/imdb2.bom.movie/;p=t;tile=1;sz=728x90;oe=ISO-8859-1;ord=' + ord + '?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">');
+
+if (navigator.userAgent.indexOf("Gecko")==-1)
+{
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N4215/adj/imdb2.bom.movie/;p=t;tile=1;sz=728x90;abr=!ie;oe=ISO-8859-1;ord=' + ord + '?"><\/script>');
+}
+document.write('<\/iframe>');
+//]]>
+</script>
+<noscript><a href="http://ad.doubleclick.net/N4215/jump/imdb2.bom.movie/;p=t;tile=1;sz=728x90;oe=ISO-8859-1;ord=1813177891?" target="_blank" ><img src="http://ad.doubleclick.net/N4215/ad/imdb2.bom.movie/;p=t;tile=1;sz=728x90;oe=ISO-8859-1;ord=1813177891?" border="0" alt="" ></a></noscript>
+<!-- end ad tag --></div>	<div id="hp_logo"><a href="/"><img src="/img/misc/bom_logo1.png" width="245" height="56" alt="Box Office Mojo"></a></div>
+	<div style="clear:both; height: 0px"></div>
+</div>
+
+
+</div>
+
+
+<div id="main">
+<!-- COLUMN 1 of 4 -->
+	<div id="leftnav">
+<!-- google_ad_section_start(weight=ignore) -->
+<!-- <table id="navleft" cellspacing="0" cellpadding="2" border="0"> -->
+<ul id="leftnav">
+<li class="nl_section">Search Site</li>
+<li class="nl_link" style="padding-left:0px">
+	<form name="searchbox" method="POST" action="/search/q.php">
+	<input name="q"  type="text" style="font-size: 9 pt; font-weight: bold; width: 90px;"><br>
+	<input type="submit" value="Search..." ></form> 
+</li>
+<li class='nl_section'>Social</li>
+<li class="nl_link"><a href="http://facebook.com/boxofficemojo" style="vertical-align:middle;"><img src="/images/FaceBook_16x16.png" border="0" alt="Facebook Logo">Facebook</a></li>
+<li class="nl_link"><a href="http://twitter.com/boxofficemojo" style="vertical-align:middle;"><img src="/images/Twitter_16x16.png" border="0" alt="Twitter Logo">Twitter</a></li>
+
+<li class='nl_section'>Features</li>
+<li class='nl_link'><a href="/news/">News</a></li>
+<li class='nl_link'><a href="/schedule/">Release Sched.</a></li>
+<li class='nl_link'><a href="http://www.imdb.com/showtimes?ref_=mojo">Showtimes<br/><span style="margin-left:7px;color: #999999; font-size: 9px;">at <img src="/images/mojo_imdb_sm.png"/></span></a></li>
+<li class='nl_section'>Box Office</li>
+<li class='nl_link'><a href="/daily/">Daily</a></li>
+<li class='nl_link'><a href="/weekend/">Weekend</a></li>
+<li class='nl_link'><a href="/weekly/">Weekly</a></li>
+<li class='nl_link'><a href="/monthly/">Monthly</a></li>
+<li class='nl_link'><a href="/quarterly/">Quarterly</a></li>
+<li class='nl_link'><a href="/seasonal/">Seasonal</a></li>
+<li class='nl_link'><a href="/yearly/">Yearly</a></li>
+<li class='nl_link'><a href="/alltime/">All Time</a></li>
+<li class='nl_link'><a href="/chartwatch/">Chart Watch</a></li>
+<li class='nl_link'><a href="/intl/">International</a></li>
+<li class='nl_section'>Indices</li>
+<li class='nl_link_current'><a href="/movies/">Movies A-Z</a></li>
+<li class='nl_link'><a href="/studio/">Studios</a></li>
+<li class='nl_link'><a href="/people/">People</a></li>
+<li class='nl_link'><a href="/genres/">Genres</a></li>
+<li class='nl_link'><a href="/franchises/">Franchises</a></li>
+<li class='nl_link'><a href="/showdowns/">Showdowns</a></li>
+<li class='nl_link'><a href="/oscar/">Oscar</a></li>
+<li class='nl_link'><a href="/counts/">Theater Counts</a></li>
+</ul>
+</div>
+	<div id="body">
+
+	<table border="0" width="878px" cellspacing="0">
+	<tr>
+	<td align="right" style="whitespace:nowrap;">
+	
+
+	<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<form method="POST" action="/adjuster.php" name="adjuster">
+<input type="hidden" name="returnURL" value="/movies/?page=intl&amp;id=avatar.htm">
+<td valign="center">
+  <font face="Verdana" size="2"><a href="/about/adjuster.htm"><b>Adjuster:</b></a></font>
+  <select size="1" name="ticketyr" style="font-family: Verdana; font-size: 10pt">
+  <option value="0" selected>Actuals</option>
+  <option value="1" >Est. Tckts</option>
+<script language="javascript">
+  for(i=2016; i>=1933; i--) {
+  	document.write('<option value="' + i + '"');
+	if(i=='0') document.write(' selected');
+	document.write('>' + i );
+	if(i=='0') document.write(', $' + '0.00');
+	document.write('</option>');
+  }
+</script>
+  <option value="1929" >1929</option>
+  <option value="1924" >1924</option>
+  <option value="1910" >1910</option>
+  </select><input type="submit" name="Go" value="Go" style="font-size: 10pt; height: 22">
+
+</td></form></tr></table>
+
+</td></tr>
+	<!--------------------------Site Body---------------------------------->
+
+<tr></td>
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+	<tr>	<td valign="top" align="center">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%" style="padding-top: 5px;"><tr><td valign="top" align="center">
+		<a href="/movies/?page=media&id=avatar.htm"><img src="http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_UY222_CR0,0,150,222_AL.jpg" border="1" style="border-color: 000000"></a>	</td>
+	<td valign="top" align="center"><br><font face="Verdana" size="6"><b>Avatar</b></font><br><br>
+	<table border="0" cellspacing="0" cellpadding="0"><tr><td>
+	<center><table border="0" border="0" cellspacing="1" cellpadding="4" bgcolor="#dcdcdc" width="95%"><tr bgcolor="#ffffff"><td align="center" colspan="2"><font size="4">Domestic Total Gross: <b>$749,766,139</b></font><br><font size="2"><a href="?page=releases&id=avatar.htm"><b>Domestic Lifetime Gross: $760,507,625</b></a></font></td></tr><tr bgcolor="#ffffff"><td valign="top">Distributor: <b><a href="/studio/chart/?studio=fox.htm">Fox</a></b></td><td valign="top">Release Date: <b><nobr><a href="/schedule/?view=bydate&release=theatrical&date=2009-12-18&p=.htm">December 18, 2009</a></nobr></b></td></tr><tr bgcolor="#ffffff"><td valign="top">Genre: <b>Sci-Fi Adventure</b></td><td valign="top">Runtime: <b>2 hrs. 40 min.</b></td></tr><tr bgcolor="#ffffff"><td valign="top">MPAA Rating: <b>PG-13</b></td><td valign="top">Production Budget: <b>N/A</b></td></tr></table>	</td>
+	</tr></table></td>
+	<td align="right"><!-- begin ad tag (tile=2) -->
+<script type="text/javascript">
+//<![CDATA[
+ord=1813177891;
+document.write('<iframe src="http://ad.doubleclick.net/N4215/adi/imdb2.bom.movie/;p=rh;tile=2;sz=300x250;oe=ISO-8859-1;ord=' + ord + '?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">');
+
+if (navigator.userAgent.indexOf("Gecko")==-1)
+{
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N4215/adj/imdb2.bom.movie/;p=rh;tile=2;sz=300x250;abr=!ie;oe=ISO-8859-1;ord=' + ord + '?"><\/script>');
+}
+document.write('</iframe>');
+//]]>
+</script>
+<noscript><a href="http://ad.doubleclick.net/N4215/jump/imdb2.bom.movie/;p=rh;tile=2;sz=300x250;oe=ISO-8859-1;ord=1813177891?" target="_blank" ><img src="http://ad.doubleclick.net/N4215/ad/imdb2.bom.2/;p=rh;tile=2;sz=300x250;oe=ISO-8859-1;ord=1813177891?" border="0" alt="" /></a></noscript>
+<!-- end ad tag --></td>
+	</tr>
+</table>
+
+<ul class="nav_tabs">
+<li><a href="/movies/?page=main&id=avatar.htm">Summary</a></li>
+<li><a href="/movies/?page=daily&id=avatar.htm">Daily</a></li>
+<li><a href="/movies/?page=weekend&id=avatar.htm">Weekend</a></li>
+<li><a href="/movies/?page=weekly&id=avatar.htm">Weekly</a></li>
+<li><a href="/movies/?page=releases&id=avatar.htm">Releases</a></li>
+<li class="nav_tab_current"><a href="/movies/?page=intl&id=avatar.htm">Foreign</a></li>
+<li><a href="/movies/?page=homevideo&id=avatar.htm">Dvd / Home Video</a></li>
+<li><a href="/movies/?page=similar&id=avatar.htm">Similar Movies</a></li>
+</ul>
+<br><font face="Verdana" size="4"><font size="2">View: </font><b>BY COUNTRY</b>  | <a href="/movies/?page=intl&view=byweekend&id=avatar.htm">BY WEEKEND</a></font><br><br><table border="3" cellspacing="0" cellpadding="5" align="center" style="margin-top: 5px;"><tr><td valign="top" align="center"><table border="0" cellspacing="1" cellpadding="3"><tr bgcolor="#dcdcdc"><td align="center"><font size="2"><a href="/movies/?page=intl&id=avatar.htm&sort=country&order=ASC&p=.htm">Country<br>(click to view weekend breakdown)</a></font></td><td align="center"><font size="2"><a href="/movies/?page=intl&id=avatar.htm&sort=studio&order=ASC&p=.htm">Dist.</a></font></td><td align="center"><font size="2"><a href="/movies/?page=intl&id=avatar.htm&sort=ReleaseDate&order=DESC&p=.htm">Release<br>Date</a></font></td><td align="center"><font size="2"><a href="/movies/?page=intl&id=avatar.htm&sort=opengross&order=DESC&p=.htm">Opening<br>Wknd</a></font></td><td align="center"><font size="2"><a href="/movies/?page=intl&id=avatar.htm&sort=percoftotal&order=DESC&p=.htm">% of<Br>Total</a></font></td><td align="center" colspan="2"><font size="2"><a href="/movies/?page=intl&id=avatar.htm&sort=todateGross&order=DESC&p=.htm">Total Gross</a> / </font><font size="2"><a href="/movies/?page=intl&id=avatar.htm&sort=asofDate&order=DESC&p=.htm">As Of</a></font></td></tr><tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=00&id=avatar.htm">FOREIGN TOTAL</a></b></font></td>
+<td><font size="2">-</font></td>
+<td align="center"><font size="2">12/16/09</font></td>
+<td align="right"><font size="2">$164,545,565</font></td>
+<td align="right"><font size="2">8.1%</font></td>
+<td align="right"><font size="2"><b>$2,027,457,462</b></font></td>
+<td align="center"><font size="2">N/A</font></td>
+</tr>
+
+<tr bgcolor="#dcdcdc"><td colspan="7"><img src="/images/space.gif" width="1" height="3"></td></tr><tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=AR&id=avatar.htm">Argentina</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">1/1/10</font></td>
+<td align="right"><font size="2">$1,273,414</font></td>
+<td align="right"><font size="2">9.5%</font></td>
+<td align="right"><font size="2"><b>$13,468,534</b></font></td>
+<td align="center"><font size="2">5/23/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=AU&id=avatar.htm">Australia</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$10,652,669</font></td>
+<td align="right"><font size="2">10.1%</font></td>
+<td align="right"><font size="2"><b>$105,779,507</b></font></td>
+<td align="center"><font size="2">9/5/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=AT&id=avatar.htm">Austria</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$1,255,531</font></td>
+<td align="right"><font size="2">8.9%</font></td>
+<td align="right"><font size="2"><b>$14,124,754</b></font></td>
+<td align="center"><font size="2">7/18/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=BH&id=avatar.htm">Bahrain</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$47,103</font></td>
+<td align="right"><font size="2">5.3%</font></td>
+<td align="right"><font size="2"><b>$896,623</b></font></td>
+<td align="center"><font size="2">7/11/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=BE&id=avatar.htm">Belgium</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/16/09</font></td>
+<td align="right"><font size="2">$1,668,859</font></td>
+<td align="right"><font size="2">12.3%</font></td>
+<td align="right"><font size="2"><b>$13,576,624</b></font></td>
+<td align="center"><font size="2">6/13/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=BO&id=avatar.htm">Bolivia</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$155,836</font></td>
+<td align="right"><font size="2">10.7%</font></td>
+<td align="right"><font size="2"><b>$1,460,086</b></font></td>
+<td align="center"><font size="2">3/21/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=BR&id=avatar.htm">Brazil</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$58,218,829</b></font></td>
+<td align="center"><font size="2">4/18/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=BG&id=avatar.htm">Bulgaria</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$392,474</font></td>
+<td align="right"><font size="2">11.5%</font></td>
+<td align="right"><font size="2"><b>$3,406,100</b></font></td>
+<td align="center"><font size="2">5/16/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=C4&id=avatar.htm">Central America</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$5,016,338</b></font></td>
+<td align="center"><font size="2">2/7/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=CL&id=avatar.htm">Chile</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$1,085,054</font></td>
+<td align="right"><font size="2">10.3%</font></td>
+<td align="right"><font size="2"><b>$10,491,936</b></font></td>
+<td align="center"><font size="2">5/9/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=CH&id=avatar.htm">China</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">1/7/10</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$204,129,854</b></font></td>
+<td align="center"><font size="2">Final</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=C2&id=avatar.htm">Colombia</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$13,620,596</b></font></td>
+<td align="center"><font size="2">4/11/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=HR&id=avatar.htm">Croatia</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$155,398</font></td>
+<td align="right"><font size="2">9.4%</font></td>
+<td align="right"><font size="2"><b>$1,646,183</b></font></td>
+<td align="center"><font size="2">4/11/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=CZ&id=avatar.htm">Czech Republic</a></b></font></td>
+<td><font size="2">Bontonfilm</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$975,170</font></td>
+<td align="right"><font size="2">7.8%</font></td>
+<td align="right"><font size="2"><b>$12,469,493</b></font></td>
+<td align="center"><font size="2">7/10/11</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=C3&id=avatar.htm">Czech Republic/Slovakia</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$11,356,370</b></font></td>
+<td align="center"><font size="2">2/7/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=DK&id=avatar.htm">Denmark</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$1,901,522</font></td>
+<td align="right"><font size="2">8.3%</font></td>
+<td align="right"><font size="2"><b>$22,889,076</b></font></td>
+<td align="center"><font size="2">5/9/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=DO&id=avatar.htm">Dominican Republic</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$1,308,038</b></font></td>
+<td align="center"><font size="2">2/7/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=EW&id=avatar.htm">East & West Africa</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$844,513</b></font></td>
+<td align="center"><font size="2">2/7/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=KN&id=avatar.htm">East Africa</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$44,215</font></td>
+<td align="right"><font size="2">12.4%</font></td>
+<td align="right"><font size="2"><b>$357,659</b></font></td>
+<td align="center"><font size="2">4/4/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=EC&id=avatar.htm">Ecuador</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$317,740</font></td>
+<td align="right"><font size="2">11.8%</font></td>
+<td align="right"><font size="2"><b>$2,688,596</b></font></td>
+<td align="center"><font size="2">3/21/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=EG&id=avatar.htm">Egypt</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/16/09</font></td>
+<td align="right"><font size="2">$128,647</font></td>
+<td align="right"><font size="2">5.6%</font></td>
+<td align="right"><font size="2"><b>$2,286,029</b></font></td>
+<td align="center"><font size="2">5/30/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=EE&id=avatar.htm">Estonia</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$103,948</font></td>
+<td align="right"><font size="2">8.6%</font></td>
+<td align="right"><font size="2"><b>$1,209,048</b></font></td>
+<td align="center"><font size="2">10/31/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=FI&id=avatar.htm">Finland</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$525,251</font></td>
+<td align="right"><font size="2">10.2%</font></td>
+<td align="right"><font size="2"><b>$5,124,697</b></font></td>
+<td align="center"><font size="2">6/27/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=FR&id=avatar.htm">France</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/16/09</font></td>
+<td align="right"><font size="2">$17,436,397</font></td>
+<td align="right"><font size="2">9.9%</font></td>
+<td align="right"><font size="2"><b>$175,615,305</b></font></td>
+<td align="center"><font size="2">Final</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=DE&id=avatar.htm">Germany</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$13,340,780</font></td>
+<td align="right"><font size="2">8.2%</font></td>
+<td align="right"><font size="2"><b>$162,333,962</b></font></td>
+<td align="center"><font size="2">Final</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=GH&id=avatar.htm">Ghana</a></b></font></td>
+<td><font size="2">WB</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$12,374</font></td>
+<td align="right"><font size="2">20.8%</font></td>
+<td align="right"><font size="2"><b>$59,590</b></font></td>
+<td align="center"><font size="2">2/28/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=GR&id=avatar.htm">Greece</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$1,322,081</font></td>
+<td align="right"><font size="2">12.4%</font></td>
+<td align="right"><font size="2"><b>$10,648,534</b></font></td>
+<td align="center"><font size="2">3/7/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=HK&id=avatar.htm">Hong Kong</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$2,039,648</font></td>
+<td align="right"><font size="2">8.9%</font></td>
+<td align="right"><font size="2"><b>$22,923,033</b></font></td>
+<td align="center"><font size="2">5/2/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=HU&id=avatar.htm">Hungary</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$713,220</font></td>
+<td align="right"><font size="2">9.8%</font></td>
+<td align="right"><font size="2"><b>$7,300,532</b></font></td>
+<td align="center"><font size="2">6/13/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=IS&id=avatar.htm">Iceland</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$117,750</font></td>
+<td align="right"><font size="2">10.4%</font></td>
+<td align="right"><font size="2"><b>$1,128,859</b></font></td>
+<td align="center"><font size="2">4/4/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=IN&id=avatar.htm">India</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$24,216,860</b></font></td>
+<td align="center"><font size="2">2/7/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=ID&id=avatar.htm">Indonesia</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$984,217</font></td>
+<td align="right"><font size="2">16.3%</font></td>
+<td align="right"><font size="2"><b>$6,053,656</b></font></td>
+<td align="center"><font size="2">5/2/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=IL&id=avatar.htm">Israel</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$858,048</font></td>
+<td align="right"><font size="2">6.6%</font></td>
+<td align="right"><font size="2"><b>$13,097,682</b></font></td>
+<td align="center"><font size="2">6/6/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=IT&id=avatar.htm">Italy</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">1/15/10</font></td>
+<td align="right"><font size="2">$13,889,941</font></td>
+<td align="right"><font size="2">16.6%</font></td>
+<td align="right"><font size="2"><b>$83,498,193</b></font></td>
+<td align="center"><font size="2">8/22/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=JM&id=avatar.htm">Jamaica</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/16/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$476,301</b></font></td>
+<td align="center"><font size="2">2/7/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=JP&id=avatar.htm">Japan</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/23/09</font></td>
+<td align="right"><font size="2">$6,890,387</font></td>
+<td align="right"><font size="2">4%</font></td>
+<td align="right"><font size="2"><b>$171,990,531</b></font></td>
+<td align="center"><font size="2">Final</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=JO&id=avatar.htm">Jordan</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/16/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$752,520</b></font></td>
+<td align="center"><font size="2">2/7/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=KU&id=avatar.htm">Kuwait</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$1,314,917</b></font></td>
+<td align="center"><font size="2">2/7/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=LT&id=avatar.htm">Latvia</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$110,989</font></td>
+<td align="right"><font size="2">7.4%</font></td>
+<td align="right"><font size="2"><b>$1,499,508</b></font></td>
+<td align="center"><font size="2">1/23/11</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=LB&id=avatar.htm">Lebanon</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$103,148</font></td>
+<td align="right"><font size="2">6.1%</font></td>
+<td align="right"><font size="2"><b>$1,689,625</b></font></td>
+<td align="center"><font size="2">4/18/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=LI&id=avatar.htm">Lithuania</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$116,976</font></td>
+<td align="right"><font size="2">7.8%</font></td>
+<td align="right"><font size="2"><b>$1,490,564</b></font></td>
+<td align="center"><font size="2">10/31/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=MY&id=avatar.htm">Malaysia</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$1,324,098</font></td>
+<td align="right"><font size="2">17.2%</font></td>
+<td align="right"><font size="2"><b>$7,706,512</b></font></td>
+<td align="center"><font size="2">7/4/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=MX&id=avatar.htm">Mexico</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$4,998,010</font></td>
+<td align="right"><font size="2">11.3%</font></td>
+<td align="right"><font size="2"><b>$44,229,043</b></font></td>
+<td align="center"><font size="2">3/28/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=H2&id=avatar.htm">Netherlands</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$1,652,273</font></td>
+<td align="right"><font size="2">7%</font></td>
+<td align="right"><font size="2"><b>$23,686,268</b></font></td>
+<td align="center"><font size="2">5/23/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=NZ&id=avatar.htm">New Zealand</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$1,169,159</font></td>
+<td align="right"><font size="2">9.3%</font></td>
+<td align="right"><font size="2"><b>$12,587,471</b></font></td>
+<td align="center"><font size="2">9/19/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=NG&id=avatar.htm">Nigeria</a></b></font></td>
+<td><font size="2">-</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$19,294</font></td>
+<td align="right"><font size="2">14.5%</font></td>
+<td align="right"><font size="2"><b>$132,847</b></font></td>
+<td align="center"><font size="2">2/14/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=NO&id=avatar.htm">Norway</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$1,395,787</font></td>
+<td align="right"><font size="2">9.8%</font></td>
+<td align="right"><font size="2"><b>$14,221,366</b></font></td>
+<td align="center"><font size="2">5/2/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=OM&id=avatar.htm">Oman</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$167,125</b></font></td>
+<td align="center"><font size="2">2/7/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=PE&id=avatar.htm">Peru</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$730,256</font></td>
+<td align="right"><font size="2">13.9%</font></td>
+<td align="right"><font size="2"><b>$5,236,550</b></font></td>
+<td align="center"><font size="2">5/23/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=PH&id=avatar.htm">Philippines</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$1,230,667</font></td>
+<td align="right"><font size="2">20.9%</font></td>
+<td align="right"><font size="2"><b>$5,881,594</b></font></td>
+<td align="center"><font size="2">3/21/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=PL&id=avatar.htm">Poland</a></b></font></td>
+<td><font size="2">Cinepix</font></td>
+<td align="center"><font size="2">12/25/09</font></td>
+<td align="right"><font size="2">$2,859,402</font></td>
+<td align="right"><font size="2">10.1%</font></td>
+<td align="right"><font size="2"><b>$28,337,868</b></font></td>
+<td align="center"><font size="2">10/27/13</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=PT&id=avatar.htm">Portugal</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$1,109,685</font></td>
+<td align="right"><font size="2">11.9%</font></td>
+<td align="right"><font size="2"><b>$9,294,777</b></font></td>
+<td align="center"><font size="2">5/23/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=QA&id=avatar.htm">Qatar</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$883,412</b></font></td>
+<td align="center"><font size="2">2/7/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=RO&id=avatar.htm">Romania</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$521,791</font></td>
+<td align="right"><font size="2">9.4%</font></td>
+<td align="right"><font size="2"><b>$5,556,796</b></font></td>
+<td align="center"><font size="2">7/11/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=R2&id=avatar.htm">Russia - CIS</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$19,732,998</font></td>
+<td align="right"><font size="2">16.9%</font></td>
+<td align="right"><font size="2"><b>$117,103,251</b></font></td>
+<td align="center"><font size="2">12/19/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=S2&id=avatar.htm">Serbia & Montenegro</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$60,674</font></td>
+<td align="right"><font size="2">4.7%</font></td>
+<td align="right"><font size="2"><b>$1,300,848</b></font></td>
+<td align="center"><font size="2">5/16/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=SG&id=avatar.htm">Singapore</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$1,674,318</font></td>
+<td align="right"><font size="2">20.6%</font></td>
+<td align="right"><font size="2"><b>$8,112,994</b></font></td>
+<td align="center"><font size="2">3/28/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=SV&id=avatar.htm">Slovakia</a></b></font></td>
+<td><font size="2">Tatrafilm</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$352,659</font></td>
+<td align="right"><font size="2">12.1%</font></td>
+<td align="right"><font size="2"><b>$2,916,247</b></font></td>
+<td align="center"><font size="2">3/21/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=SI&id=avatar.htm">Slovenia</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$138,829</font></td>
+<td align="right"><font size="2">7.6%</font></td>
+<td align="right"><font size="2"><b>$1,825,003</b></font></td>
+<td align="center"><font size="2">4/11/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=ZA&id=avatar.htm">South Africa</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$578,035</font></td>
+<td align="right"><font size="2">7.4%</font></td>
+<td align="right"><font size="2"><b>$7,780,468</b></font></td>
+<td align="center"><font size="2">4/11/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=KR&id=avatar.htm">South Korea</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$9,718,025</font></td>
+<td align="right"><font size="2">9.2%</font></td>
+<td align="right"><font size="2"><b>$105,485,521</b></font></td>
+<td align="center"><font size="2">8/1/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=ES&id=avatar.htm">Spain</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$10,989,711</font></td>
+<td align="right"><font size="2">10%</font></td>
+<td align="right"><font size="2"><b>$109,992,746</b></font></td>
+<td align="center"><font size="2">7/18/11</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=SE&id=avatar.htm">Sweden</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$2,110,278</font></td>
+<td align="right"><font size="2">9.5%</font></td>
+<td align="right"><font size="2"><b>$22,187,194</b></font></td>
+<td align="center"><font size="2">7/18/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=SZ&id=avatar.htm">Switzerland</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$15,743,017</b></font></td>
+<td align="center"><font size="2">2/7/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=SY&id=avatar.htm">Syria</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$172,981</b></font></td>
+<td align="center"><font size="2">2/7/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=TW&id=avatar.htm">Taiwan</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$1,156,601</font></td>
+<td align="right"><font size="2">8.5%</font></td>
+<td align="right"><font size="2"><b>$13,634,452</b></font></td>
+<td align="center"><font size="2">4/25/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=TH&id=avatar.htm">Thailand</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$1,588,449</font></td>
+<td align="right"><font size="2">18.9%</font></td>
+<td align="right"><font size="2"><b>$8,414,866</b></font></td>
+<td align="center"><font size="2">4/4/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=TT&id=avatar.htm">Trinidad & Tobago</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/16/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$615,762</b></font></td>
+<td align="center"><font size="2">2/7/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=TR&id=avatar.htm">Turkey</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$1,613,474</font></td>
+<td align="right"><font size="2">9.2%</font></td>
+<td align="right"><font size="2"><b>$17,564,479</b></font></td>
+<td align="center"><font size="2">4/24/11</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=UA&id=avatar.htm">Ukraine</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$1,227,149</font></td>
+<td align="right"><font size="2">14.1%</font></td>
+<td align="right"><font size="2"><b>$8,691,077</b></font></td>
+<td align="center"><font size="2">9/25/11</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=UE&id=avatar.htm">United Arab Emirates</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/17/09</font></td>
+<td align="right"><font size="2">$1,030,321</font></td>
+<td align="right"><font size="2">14.1%</font></td>
+<td align="right"><font size="2"><b>$7,310,378</b></font></td>
+<td align="center"><font size="2">5/23/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=UK&id=avatar.htm">United Kingdom</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$13,753,111</font></td>
+<td align="right"><font size="2">9.2%</font></td>
+<td align="right"><font size="2"><b>$150,025,197</b></font></td>
+<td align="center"><font size="2">10/10/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=U3&id=avatar.htm">Uruguay</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$65,570</font></td>
+<td align="right"><font size="2">5.5%</font></td>
+<td align="right"><font size="2"><b>$1,195,413</b></font></td>
+<td align="center"><font size="2">4/11/10</font></td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><font size="2"><b><a href="/movies/?page=intl&country=VE&id=avatar.htm">Venezuela</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">$879,063</font></td>
+<td align="right"><font size="2">17.1%</font></td>
+<td align="right"><font size="2"><b>$5,125,939</b></font></td>
+<td align="center"><font size="2">3/21/10</font></td>
+</tr>
+
+<tr bgcolor="#f4f4ff"><td><font size="2"><b><a href="/movies/?page=intl&country=VT&id=avatar.htm">Vietnam</a></b></font></td>
+<td><font size="2">Fox</font></td>
+<td align="center"><font size="2">12/18/09</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2">-</font></td>
+<td align="right"><font size="2"><b>$1,385,487</b></font></td>
+<td align="center"><font size="2">2/7/10</font></td>
+</tr>
+
+</table><br></td></tr></table><br><br></td></tr></table>
+	</div>
+	</div>
+	<div id="hp_footer">
+		<div style="padding-bottom: 20px;">
+
+			<div style="margin: 0px 121px; vertical-align: top;">
+				<div id="footer_links">
+					<ul class="footer_link_list">
+						<li><strong>Latest Updates</strong></li>
+						<li><a href="/news/?ref=ft">Movie News</a>
+						<li><a href="/daily/chart/?ref=ft">Daily Chart</a></li>
+						<li><a href="/weekend/chart/?ref=ft">Weekend Chart</a></li>
+						<li><a href="/alltime/?ref=ft">All Time Charts</a></li>
+						<li><a href="/intl/?ref=ft">International Charts</a></li>
+					</ul>
+					<!--
+					<ul class="footer_link_list">
+						<li><strong>Popular Movies</strong></li>
+											</ul>
+					-->
+					<ul class="footer_link_list">
+						<li><strong>Indices</strong></li>
+						<li><a href="/movies/?ref=ft">Movies A-Z</a></li>
+						<li><a href="/people/?ref=ft">People</a></li>
+						<li><a href="/genres/?ref=ft">Genres</a></li>
+						<li><a href="/franchises/?ref=ft">Franchises</a></li>
+						<li><a href="/showdowns/?ref=ft">Showdowns</a></li>
+					</ul>
+					<ul class="footer_link_list">
+						<li><strong>Other</strong></li>
+						<li><a href="/about/?ref=ft">About This Site</a></li>
+						<li><a href="/about/advertise.htm?ref=ft">Advertising</a></li>
+						<li><a href="/users/?ref=ft">My Account</a></li>
+						<li><a href="/about/rss.htm?ref=ft">RSS Feeds</a></li>
+					</ul>
+				</div>
+				<div id="copyright">
+					<a href="/?ref=ft"><img src="/img/misc/bom_logo1.png" width="245" height="56" alt="Box Office Mojo"></a><br>
+					<p>An <a href="http://imdb.com/"><img src="/img/misc/IMDbSm.png" width="34" height="16" alt="IMDb" valign="middle"></a> company<br><br></p>
+					<p>&copy; <a href="http://imdb.com/">IMDb.com</a>, Inc. or its affiliates. All rights reserved. Box Office Mojo and IMDb are trademarks or registered trademarks of IMDb.com, Inc. or its affiliates. <a href="/about/termsofuse.htm">Terms of Use</a> and <a href="/about/privacy.htm">Privacy Policy</a> under which this service is provided to you.</p>
+					</div>			
+				</div>
+				<div style="clear:both;">
+				<div>
+				 <!-- begin ad tag (tile=6) -->
+<script type="text/javascript">
+//<![CDATA[
+ord=1813177891;
+document.write('<iframe src="http://ad.doubleclick.net/N4215/adi/imdb2.bom.movie/;p=b;tile=3;sz=728x90;oe=ISO-8859-1;ord=' + ord + '?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">');
+
+if (navigator.userAgent.indexOf("Gecko")==-1)
+{
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N4215/adj/imdb2.bom.movie/;p=b;tile=3;sz=728x90;abr=!ie;oe=ISO-8859-1;ord=' + ord + '?"><\/script>');
+}
+document.write('<\/iframe>');
+//]]>
+</script>
+<noscript><a href="http://ad.doubleclick.net/N4215/jump/imdb2.bom.movie/;p=b;tile=3;sz=728x90;oe=ISO-8859-1;ord=1813177891?" target="_blank" ><img src="http://ad.doubleclick.net/N4215/ad/imdb2.bom.movie/;p=b;tile=3;sz=728x90;oe=ISO-8859-1;ord=1813177891?" border="0" alt="" ></a></noscript>
+<!-- end ad tag --></div>
+
+				</div>
+	</div>
+</div>
+
+
+
+
+
+<!-- Page generated in 0.07 seconds | . -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6034961" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+  el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=6034961&cv=2.0&cj=1" />
+</noscript>
+</body>
+</html>
