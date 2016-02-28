@@ -1,4 +1,4 @@
 /data
-.png
-.pyc
+*.png
+*.pyc
 
